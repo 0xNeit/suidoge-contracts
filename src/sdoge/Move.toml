@@ -1,6 +1,7 @@
 [package]
 name = "sdoge"
 version = "0.0.1"
+published_at = "0x8944243e5cfbb293ecb8550185a5bb3c6f0039bbca67c11fd4711e404c914eb0"
 
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "testnet" }
