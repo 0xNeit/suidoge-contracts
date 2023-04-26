@@ -1,4 +1,4 @@
-module library::math {
+module masterchef::math {
 
   const SCALAR: u256 = 1000000000; // 1e9 - Same as Sui decimals
   const DOUBLE_SCALAR: u256 = 1000000000000000000; // 1e18 - More accuracy
