@@ -1,4 +1,3 @@
-// The governance token (SDOGE) of Interest Protocol
 module sdoge::sdoge {
   use std::option;
 
